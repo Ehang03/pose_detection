@@ -1,5 +1,6 @@
-基于YOLOv11实现的支持多端的运动姿态识别（使用pytorch）
-### 环境配置
+Multi-device Supported Exercise Pose Recognition Based on YOLOv11 (using PyTorch)
+Currently, three versions have been developed, supporting local videos, computer cameras, and mobile phone cameras.
+### Install
 ```
 conda create -n yolo11 python=3.9
 conda activate yolo11
@@ -7,11 +8,11 @@ pip install opencv-python==4.12.0.88
 pip install torch==1.12.1+cu113 torchvision==0.13.1+cu113 torchaudio==0.12.1+cu113 --extra-index-url https://download.pytorch.org/whl/cu113
 pip install ultralytics==8.3.167
 ```
-国内镜像源 `-i https://pypi.tuna.tsinghua.edu.cn/simple`
-### 训练（暂无）
-### 测试（暂无）
-### 实验结果分析（暂无）
-### 效果演示
+Tsinghua Mirror Source `-i https://pypi.tuna.tsinghua.edu.cn/simple`
+### Train（暂无）
+### Test（暂无）
+### Result（暂无）
+### Demonstration
 - ### demo1
 
 ![demo1](/assets/object_recognize.png)
