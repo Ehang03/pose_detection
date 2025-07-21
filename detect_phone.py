@@ -186,7 +186,7 @@ if __name__ == '__main__':
 
     # 替换为你的手机IP地址（从IP Webcam应用中获取）
     # 格式示例："http://192.168.1.100:8080/video"
-    phone_camera_url = "http://192.168.1.105:8080/video"
+    phone_camera_url = "http://192.168.1.100:8080/video"
 
     # 使用手机摄像头进行实时姿态识别
     point_list = [6, 8, 10]  # 右肩、右肘、右手
