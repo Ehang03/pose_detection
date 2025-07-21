@@ -14,4 +14,9 @@ pip install ultralytics==8.3.167
 ### 测试（暂无）
 ### 实验结果分析（暂无）
 ### 效果演示
+- ### demo1
 
+![demo1](/assets/object_recognize.png)
+- ### demo2
+
+![demo2](/assets/pose_recognize.png)
