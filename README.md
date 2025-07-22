@@ -1,4 +1,5 @@
 Multi-device Supported Exercise Pose Recognition Based on YOLOv11 (using PyTorch)
+
 Currently, three versions have been developed, supporting local videos, computer cameras, and mobile phone cameras.
 ### Install
 ```
